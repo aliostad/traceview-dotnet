@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceView.Listener", "src\TraceView.Listener\TraceView.Listener.csproj", "{C02B2CCF-91CB-4549-A039-6B94FEE69FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02B2CCF-91CB-4549-A039-6B94FEE69FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02B2CCF-91CB-4549-A039-6B94FEE69FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02B2CCF-91CB-4549-A039-6B94FEE69FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02B2CCF-91CB-4549-A039-6B94FEE69FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

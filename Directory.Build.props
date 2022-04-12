@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <Description>A trace listener for TraceView</Description>
+    <Authors>Ali Kheyrollahi</Authors>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Version>0.1</Version>
+    <PackageProjectUrl>https://github.com/aliostad/traceview-dotnet</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
